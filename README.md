@@ -25,7 +25,7 @@
 
 手写：相邻数组的最大哪个，不能排序  
 
-手写：tree 可以看这里https://www.nowcoder.com/discuss/1050311，树的场景题题库总结
+手写：tree 可以看这里https://www.nowcoder.com/discuss/1050311 树的场景题题库总结
 
 手写：随机颜色
 
