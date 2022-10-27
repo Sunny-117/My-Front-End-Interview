@@ -1,11 +1,7 @@
 # My-Front-End-Interview
 # 校招收官，百度offered，终于不用面试了
 
-# 本人github[链接 ](https://github.com/Sunny-117)求follow https://github.com/Sunny-117
-
 以后长期活跃在github，面经还是在牛客哈。github会做一些github该做的事情：开源，源码，社区，ideas...
-
-![github](/Users/sunny/Desktop/github.png)
 
 等了三个月，终于发offer了，白菜价，92大佬们拒的薪资，我知足了。
 
